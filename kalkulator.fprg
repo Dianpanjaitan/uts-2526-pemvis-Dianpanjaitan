@@ -4,9 +4,9 @@
         <attribute name="name" value="kalkulator"/>
         <attribute name="authors" value="LOQ"/>
         <attribute name="about" value=""/>
-        <attribute name="saved" value="2025-10-17 05:15:30 PM"/>
+        <attribute name="saved" value="2025-10-17 05:15:07 PM"/>
         <attribute name="created" value="TE9RO0xBUFRPUC1KNFZRTEZUMzsyMDI1LTEwLTE3OzAxOjUyOjUyIFBNOzI1OTY="/>
-        <attribute name="edited" value="TE9RO0xBUFRPUC1KNFZRTEZUMzsyMDI1LTEwLTE3OzA1OjE1OjMwIFBNOzQ7MjcwNg=="/>
+        <attribute name="edited" value="TE9RO0xBUFRPUC1KNFZRTEZUMzsyMDI1LTEwLTE3OzA1OjE1OjA3IFBNOzM7MjcwOQ=="/>
     </attributes>
     <function name="Main" type="None" variable="">
         <parameters/>
