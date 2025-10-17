@@ -1,9 +1,9 @@
-//12S25020 - Julia Simatupang
-//12S25057 - Dian Petrus Panjaitan
+//12S25020 Julia Simatupang
+//12S25057 Dian Petrus Panjaitan
 import java.util.*;
 import java.lang.Math;
 
-public class kalkulator {
+public class kalkulatoruts {
     private static Scanner input = new Scanner(System.in);
 
     public static void main(String[] args) {
