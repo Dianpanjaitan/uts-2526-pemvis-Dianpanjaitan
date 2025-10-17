@@ -1,5 +1,5 @@
-//12S25020 - Julia Simatupang
-//12S25057 - Dian Petrus Panjaitan
+//12S25020 Julia Simatupang
+//12S25057 Dian Petrus Panjaitan
 import java.util.*;
 import java.lang.Math;
 
