@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="kalkulator"/>
+        <attribute name="authors" value="LOQ"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-10-17 05:15:30 PM"/>
+        <attribute name="created" value="TE9RO0xBUFRPUC1KNFZRTEZUMzsyMDI1LTEwLTE3OzAxOjUyOjUyIFBNOzI1OTY="/>
+        <attribute name="edited" value="TE9RO0xBUFRPUC1KNFZRTEZUMzsyMDI1LTEwLTE3OzA1OjE1OjMwIFBNOzQ7MjcwNg=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="bilangan1, bilangan2, penjumlahan, pengurangan, perkalian, pembagian" type="Integer" array="False" size=""/>
+            <declare name="pilihan1, pilihan2, pilihan3, pilihan4" type="String" array="False" size=""/>
+            <input variable="bilangan1"/>
+            <input variable="bilangan2"/>
+            <if expression="pilihan1">
+                <then>
+                    <assign variable="penjumlahan" expression="bilangan1+bilangan2"/>
+                </then>
+                <else>
+                    <if expression="pilihan2">
+                        <then>
+                            <assign variable="pilihan2" expression="bilangan1-bilangan2"/>
+                        </then>
+                        <else>
+                            <if expression="pilihan3">
+                                <then>
+                                    <assign variable="pilihan3" expression="bilangan1*bilangan2"/>
+                                </then>
+                                <else>
+                                    <if expression="pilihan4">
+                                        <then>
+                                            <assign variable="pilihan4" expression="bilangan1/bilangan2"/>
+                                        </then>
+                                        <else/>
+                                    </if>
+                                </else>
+                            </if>
+                        </else>
+                    </if>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
